@@ -1,33 +1,33 @@
-# Nexus++ Language Documentation
+# Nexus++ - Документация
 
-![Nexus++ Banner](https://nexuspp.dev/assets/banner.png)
+![Лого Nexus++](https://nexuspp.dev/logo.png)
 
-## Table of Contents
-- [Installation](#installation)
-- [IDE Setup](#ide-setup)
-- [Language Basics](#language-basics)
-- [Standard Library](#standard-library)
-- [Advanced Features](#advanced-features)
-- [Examples](#examples)
-- [Community](#community)
+## Оглавление
+1. [Установка](#установка)
+2. [Быстрый старт](#быстрый-старт)
+3. [Синтаксис](#синтаксис)
+4. [Стандартная библиотека](#стандартная-библиотека)
+5. [Компиляция](#компиляция)
+6. [Примеры](#примеры)
+7. [Сообщество](#сообщество)
 
 ---
 
-## Installation
+## Установка
 
-### System Requirements
-- x86_64 or ARM64 processor
-- 4GB RAM minimum
-- 2GB disk space
+### Системные требования
+- Процессор x86_64 или ARM64
+- 4 ГБ ОЗУ
+- 2 ГБ свободного места
 
-### Download Links
-| Platform | Installer | Checksum |
-|----------|----------|----------|
+### Скачать
+| Платформа | Установщик | Контрольная сумма |
+|-----------|------------|-------------------|
 | Windows | [nexuspp-1.0-x64.exe](https://dl.nexuspp.dev/win) | `sha256: a1b2...` |
 | macOS | [nexuspp-1.0.dmg](https://dl.nexuspp.dev/mac) | `sha256: c3d4...` |
-| Linux | [nexuspp-1.0.deb](https://dl.nexuspp.dev/linux) | `sha256: e5f6...` |
+| Linux | [nexuspp_1.0_amd64.deb](https://dl.nexuspp.dev/linux) | `sha256: e5f6...` |
 
-### Build from Source
+### Сборка из исходников
 ```bash
 git clone https://github.com/nexuspp/compiler
 cd compiler
