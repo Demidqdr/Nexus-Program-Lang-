@@ -139,7 +139,7 @@ fn matmul(a: Matrix, b: Matrix) -> Matrix {
 ## Сообщество
 
 - [Официальный сайт](https://nexuspp.dev)
-- [GitHub](https://github.com/nexuspp)
+- [GitHub](https://github.com/Demidqdr/Nexus-Program-Lang-)
 - [Форум](https://forum.nexuspp.dev)
 
 ```bash
